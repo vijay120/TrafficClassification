@@ -8,5 +8,6 @@ dependencies:
 - scikit-learn
 - pandas
 - menpo::opencv3
-- pip:
-  - tensorflow >= 0.12.0rc1
+- conda-forge::tensorflow=0.11.0
+#- pip:
+#  - tensorflow
